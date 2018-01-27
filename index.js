@@ -18,6 +18,8 @@ function sayHiToGrandma(string) {
   if (string === whisper(string)) {
     return "I can't hear you."  
   } else if (string === shout(string)) {
-    retrun ""    
+    retrun "YES INDEED!"    
+  } else if (string === "") {
+    
   }
 }
